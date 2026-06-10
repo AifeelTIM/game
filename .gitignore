@@ -1,0 +1,9 @@
+build/
+cmake-build-debug-stm32/
+cmake-build-*/
+.idea/
+.mxproject
+*.o
+*.elf
+*.hex
+*.bin
