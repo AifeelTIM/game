@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__ide__getDiagnostics",
+      "Bash(where node *)",
+      "WebSearch",
+      "WebFetch(domain:shequ.stmicroelectronics.cn)",
+      "WebFetch(domain:blog.csdn.net)"
+    ]
+  }
+}
