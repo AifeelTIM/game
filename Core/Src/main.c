@@ -1,4 +1,5 @@
 /* USER CODE BEGIN Header */
+/* TEST: auto push hook demo */
 /**
   ******************************************************************************
   * @file           : main.c
